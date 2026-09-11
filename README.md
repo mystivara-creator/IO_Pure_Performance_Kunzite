@@ -14,7 +14,7 @@ Mengutamakan pendekatan minimalis — hanya mengubah yang benar-benar perlu, mem
 
 ## Penulis
 © 2026 Mystivara
-Dibuat dengan bantuan dari Dola 🤍
+Author: Mystivara
 
 ## Fitur
 - ⚡ Optimasi I/O Scheduler — kurangi penundaan akses UFS
