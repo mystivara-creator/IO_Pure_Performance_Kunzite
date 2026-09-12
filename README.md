@@ -16,5 +16,4 @@ A minimalist KernelSU module designed for I/O Scheduler optimization and Virtual
 > ⚠️ **Note:** All modifications applied by this module are purely TEMPORARY and run within the system memory. Once the module is uninstalled and the device is rebooted, the built-in clean restoration script **AUTOMATICALLY** reverts every single value back to the absolute factory default baseline. No permanent system files are modified—making it completely safe and reversible at any time.
 
 ## 👤 Author
-© 2026 Mystivara
-Author: Mystivara
+© 2026 Mystivara-dev
