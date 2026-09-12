@@ -1,0 +1,6 @@
+id=io_tuning_redmi_note15_5g
+name=EficienyKernelTweaksKunzite
+version=1.2.0 Stable
+versionCode=12
+author=Mystivara
+description=Optimize I/O Scheduler efficiency from the manufacturer's default baseline configuration
